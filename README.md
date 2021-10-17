@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZloyDeDD
 - 👀 I’m interested in web development (frontend and backend)
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Java for Beginners
 - 💞️ I’m looking to collaborate on any interesting people
 - 📫 How to reach me: [telegram](https://t.me/z1oyded), <recrut2010@gmail.com>
